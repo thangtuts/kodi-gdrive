@@ -13,7 +13,7 @@ Video hướng dẫn xem tại đây [https://www.youtube.com/watch?v=EVHgg7JM3Y
 - Tài khoản Vercel [https://vercel.com/]
 - Tài khoản Google Drive ( bắt buộc )
 
-👋 **Chú ý:** DÙNG TÀI KHOẢN GITHUB ĐỂ ĐĂNG KÝ (SIGN-UP) CÁC TÀI KHOẢN UNSTASK VÀ VERCEL
+👋 **Chú ý:** DÙNG TÀI KHOẢN GITHUB ĐỂ ĐĂNG KÝ (SIGN-UP) CÁC TÀI KHOẢN UPSTASH VÀ VERCEL
 
 ## BƯỚC 1: Đăng ký tài khoản Github
 
