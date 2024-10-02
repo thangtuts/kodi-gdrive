@@ -1,6 +1,6 @@
 # Kodi GDrive Add-on
 
-Hướng dẫn chứng thực Google Drive Stream Video trên Kodi App
+Hướng dẫn chứng thực Google Drive Stream Video trên Kodi App ( work 10/2024 )
 
 Nguồn tham khảo: [https://github.com/aldacco/drive-login]
 
@@ -11,7 +11,7 @@ Video hướng dẫn xem tại đây [https://www.youtube.com/watch?v=EVHgg7JM3Y
 - Tài khoản Github [https://github.com/signup]
 - Tài khoản Upstash [https://console.upstash.com/login]
 - Tài khoản Vercel [https://vercel.com/]
-- Tài khoản Google Drive
+- Tài khoản Google Drive ( bắt buộc )
 
 👋 **Chú ý:** DÙNG TÀI KHOẢN GITHUB ĐỂ ĐĂNG KÝ (SIGN-UP) CÁC TÀI KHOẢN UNSTASK VÀ VERCEL
 
@@ -55,7 +55,7 @@ Video hướng dẫn xem tại đây [https://www.youtube.com/watch?v=EVHgg7JM3Y
 
 <img src="images/N3D3L4lAng.png" width="400">
 
-## BƯỚC 4: Cấu hình Website
+## BƯỚC 5: Cấu hình Website
 
 - Theo hướng dẫn trong video
 - Hoàn chỉnh các giá trị giống như file config.txt
@@ -63,11 +63,12 @@ Video hướng dẫn xem tại đây [https://www.youtube.com/watch?v=EVHgg7JM3Y
 ## BƯỚC 5: Cài đặt Kodi, Google Drive extension
 
 - Cài đặt Kodi và Google Drive Extension ( xem thêm video hướng dẫn)
+- CHÚ Ý QUAN TRỌNG: Cài đặt giá trị của URL Website không bao gồm `/`
+
+`https://xxx.vercel.app` NOT `https://xxx.vercel.app/`
 
 ## BƯỚC 6: Chứng thực tài khoản Google Drive trên Kodi
 
-- Cung cấp quyền truy cập ( xem thêm video hướng dẫn )
+- Cung cấp quyền truy cập.
+- làm theo yêu cầu của Google, chọn cho phép all nếu Google có hỏi.
 
-## 👋 DONATE Mình ly Cà phê
-
-<img src="images/donate.png" width=325 />
