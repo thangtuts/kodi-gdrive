@@ -60,15 +60,15 @@ Video hướng dẫn xem tại đây [https://www.youtube.com/watch?v=EVHgg7JM3Y
 - Theo hướng dẫn trong video
 - Hoàn chỉnh các giá trị giống như file config.txt
 
-## BƯỚC 5: Cài đặt Kodi, Google Drive extension
+## BƯỚC 6: Cài đặt Kodi, Google Drive extension
 
 - Cài đặt Kodi và Google Drive Extension ( xem thêm video hướng dẫn)
 - CHÚ Ý QUAN TRỌNG: Cài đặt giá trị của URL Website không bao gồm `/`
 
 `https://xxx.vercel.app` NOT `https://xxx.vercel.app/`
 
-## BƯỚC 6: Chứng thực tài khoản Google Drive trên Kodi
+## BƯỚC 7: Chứng thực tài khoản Google Drive trên Kodi
 
 - Cung cấp quyền truy cập.
-- làm theo yêu cầu của Google, chọn cho phép all nếu Google có hỏi.
+- Làm theo yêu cầu của Google, chọn cho phép all nếu Google có hỏi.
 
